@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: d9eb227032e954c52990a68d208923a5
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Frame Sheet_0
+    21300002: Frame Sheet_1
+    21300004: Frame Sheet_2
+    21300006: Frame Sheet_3
+    21300008: Frame Sheet_4
+    21300010: Frame Sheet_5
+    21300012: Frame Sheet_6
+    21300014: Frame Sheet_7
+    21300016: Frame Sheet_8
+    21300018: Frame Sheet_9
+    21300020: Frame Sheet_10
+    21300022: Frame Sheet_11
+    21300024: Frame Sheet_12
+    21300026: Frame Sheet_13
+    21300028: Frame Sheet_14
+    21300030: Frame Sheet_15
+    21300032: Frame Sheet_16
+    21300034: Frame Sheet_17
+    21300036: Frame Sheet_18
+    21300038: Frame Sheet_19
+    21300040: Frame Sheet_20
+    21300042: Frame Sheet_21
+    21300044: Frame Sheet_22
+    21300046: Frame Sheet_23
+    21300048: Frame Sheet_24
+    21300050: Frame Sheet_25
+    21300052: Frame Sheet_26
+    21300054: Frame Sheet_27
+    21300056: Frame Sheet_28
+    21300058: Frame Sheet_29
+    21300060: Frame Sheet_30
+    21300062: Frame Sheet_31
+    21300064: Frame Sheet_32
+    21300066: Frame Sheet_33
+    21300068: Frame Sheet_34
+    21300070: Frame Sheet_35
+    21300072: Frame Sheet_36
+    21300074: Frame Sheet_37
+    21300076: Frame Sheet_38
+    21300078: Frame Sheet_39
+    21300080: Frame Sheet_40
+    21300082: Frame Sheet_41
+    21300084: Frame Sheet_42
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 2000
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Frame Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 4418
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frame Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 4417
+        width: 79
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frame Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 3852
+        width: 294
+        height: 581
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frame Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 3844
+        width: 326
+        height: 581
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frame Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 3860
+        width: 341
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frame Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 3852
+        width: 295
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frame Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 2579
+        y: 3868
+        width: 326
+        height: 581
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frame Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 3169
+        y: 4419
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frame Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 3176
+        y: 4394
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frame Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 3318
+        y: 3455
+        width: 103
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frame Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 3429
+        y: 3463
+        width: 119
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frame Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 3695
+        y: 3491
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frame Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 5059
+        y: 3487
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frame Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 3231
+        y: 3296
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frame Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 3437
+        y: 3296
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frame Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 3628
+        y: 3335
+        width: 40
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frame Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 4081
+        y: 3184
+        width: 166
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frame Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 3248
+        width: 87
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frame Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 4297
+        y: 2674
+        width: 378
+        height: 272
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frame Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 4836
+        y: 3216
+        width: 175
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frame Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 5052
+        y: 3330
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frame Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 3288
+        width: 72
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frame Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 3272
+        width: 78
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frame Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 4788
+        y: 3280
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frame Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 2628
+        width: 262
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frame Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 2644
+        width: 310
+        height: 603
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frame Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 2652
+        width: 294
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frame Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 2660
+        width: 254
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frame Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 2668
+        width: 342
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frame Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 2668
+        width: 247
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frame Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 2523
+        y: 2668
+        width: 294
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frame Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 2937
+        y: 2660
+        width: 309
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frame Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 3310
+        y: 2660
+        width: 262
+        height: 540
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frame Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 4137
+        y: 3057
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frame Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 4804
+        y: 3025
+        width: 246
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frame Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 2939
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frame Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 2946
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frame Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 3715
+        y: 2664
+        width: 532
+        height: 361
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frame Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 4725
+        y: 2723
+        width: 254
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frame Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 4979
+        y: 2843
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frame Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 4288
+        y: 2907
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frame Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 4276
+        y: 2664
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frame Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 2566
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

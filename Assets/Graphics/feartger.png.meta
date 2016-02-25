@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: bc367bdf241e6e04c90e53e6c0e9651a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: feartger_0
+    21300002: feartger_1
+    21300004: feartger_2
+    21300006: feartger_3
+    21300008: feartger_4
+    21300010: feartger_5
+    21300012: feartger_6
+    21300014: feartger_7
+    21300016: feartger_8
+    21300018: feartger_9
+    21300020: feartger_10
+    21300022: feartger_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: feartger_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 31
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: feartger_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 4
+        width: 43
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: feartger_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 8
+        width: 43
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: feartger_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 24
+        width: 82
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: feartger_4
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 22
+        width: 89
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: feartger_5
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 16
+        width: 81
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: feartger_6
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 11
+        width: 64
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: feartger_7
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 7
+        width: 43
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: feartger_8
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 10
+        width: 62
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: feartger_9
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 22
+        width: 82
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: feartger_10
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 39
+        width: 89
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: feartger_11
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 13
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
